@@ -12,6 +12,10 @@ plt.plot(list(graph_data.index), graph_data['PC-E'], label='PC-E')
 plt.legend()
 ~~~
 
+
+![image](https://user-images.githubusercontent.com/88098995/202056932-0ca4f9b8-b480-4d3a-9c8b-d243750162fd.png)
+
+
 1. matplotlib 그래프는 가로축, 세로축의 순서로 지정.
 2. 가로축은 payment_month 를 표시해야 하므로 graph_data.index 를 리스트형으로 변환.
 3. 세로축은 상품별 매출이므로 graph_data 칼럼을 지정.
