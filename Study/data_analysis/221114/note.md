@@ -16,3 +16,4 @@ plt.legend()
 2. 가로축은 payment_month 를 표시해야 하므로 graph_data.index 를 리스트형으로 변환.
 3. 세로축은 상품별 매출이므로 graph_data 칼럼을 지정.
 4. label 로 범례를 표시.
+ㄴㅇㄹ
